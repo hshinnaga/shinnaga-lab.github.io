@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/hs2025.jpg"
-  name             : "Your Sidebar Name"
+  avatar           : "images/hs2025.jpg"
+  name             : "Hiroko Shinnaga"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Japan"
+  employer         : "Kagoshima University"
   uri              : # URL
   email            : "none@example.org" 
 
